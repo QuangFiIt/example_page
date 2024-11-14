@@ -1,7 +1,7 @@
 {
   "name": "be-ecom-dashboard",
-  "version": "1.5.0",
-  "urlZip": "https://quangfiit.github.io/example_page/resource/zip/be-ecom-dashboard/ecom_dashboard_20241114_1000.tar.gz",
+  "version": "1.5.1",
+  "urlZip": "https://quangfiit.github.io/example_page/resource/zip/be-ecom-dashboard/ecom_dashboard_20241115_1056.tar.gz",
   "hash": "0xfe77953f8ba5fe2fe5f70f6f6e8bbb1c69d3a848bb9cb9cd3d483b44b1100195",
   "sign": "0x80ec1dcd03758c0897ba79b883e4b2bd29a03627dd5fcd9ef1b58ba621380367e3129b569305338f77d72bb3b805544719a5bd93e6da357c85866b23e7905ed2c58f83dfa6a1d29c7297086d345c25729c2f50899736e2bdb0405a79808db40c",
   "pubKey": "0x927c8f340255d5a2d7b839ce4859f7dc33c64e5967fe40dde023c0751a53dff3925eec1eaaeb60f83c203c85e9c5b223",
